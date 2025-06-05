@@ -90,7 +90,6 @@ _捐赠将是对我最大的支持，它将激励我持续的创新和创作。_
 ## 项目鸣谢
 
 [nekohasekai](https://github.com/SagerNet/sing-box)、[AlistGo](https://github.com/AlistGo/alist)、[9seconds](https://github.com/9seconds/mtg)、[eooce](https://github.com/eooce)、[nrootconauto](https://github.com/nrootconauto/MrChrootBSD)、[nezhahq](https://github.com/nezhahq/agent)、[huashengdun](https://github.com/huashengdun/webssh)、[hslr-s](https://github.com/hslr-s/sun-panel)  
-[yangtb2024](https://github.com/yangtb2024/OneTimeMessagePHP)
 
 ## 免责声明
 
